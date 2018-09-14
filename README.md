@@ -1,6 +1,6 @@
-# Pre-work - *TipCalculator*
+# Pre-work - *tipster*
 
-**TipCalculator** is a tip calculator application for iOS.
+**tipster** is a tip calculator application for iOS.
 
 Submitted by: **Matthew Rodriguez**
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/UtLKBdJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
